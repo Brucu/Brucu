@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @Brucu
-- 👀 I am interested in programming, gaming and creating games
-- 🌱 I’m currently learning C++, JavaScript, 
-- 📫 How to reach me @brucuss 🖤#2727
-
+Hi there 👋!
