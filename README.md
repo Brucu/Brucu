@@ -33,6 +33,9 @@
 
 <br/>
 
-![Brucu's Stats](https://github-readme-stats.vercel.app/api?username=Brucu&theme=dracula&show_icons=true&hide_border=true&count_private=true)
-![Brucu's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Brucu&theme=dracula&show_icons=true&hide_border=true&layout=compact)
+<a href="https://github.com/brucu">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brucu&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brucu&theme=buefy&layout=compact" />
+</a>
+
 <br/>
