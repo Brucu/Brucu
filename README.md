@@ -31,11 +31,10 @@
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
   ![InDesign](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-indesign)
 
-<br/>
 
 <a href="https://github.com/brucu">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brucu&theme=dracula&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brucu&theme=dracula&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brucu&theme=dracula&show_icons=true&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brucu&theme=dracula&layout=compact&hide_border=true" />
 </a>
 
 <br/>
