@@ -33,8 +33,8 @@
 
 
 <a href="https://github.com/brucu">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brucu&theme=dracula&show_icons=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brucu&theme=dracula&layout=compact&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Brucu&theme=dracula&show_icons=true&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brucu&theme=dracula&layout=compact&hide_border=true" />
 </a>
 
 <br/>
