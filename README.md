@@ -3,7 +3,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Explore coding and making cool stuff.
-- 🎓 &nbsp; Currently in High School.
+- 🎓 &nbsp; Currently in university.
 - 💼 &nbsp; Working as no one.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
